@@ -16,27 +16,25 @@
   * Linux(Ubuntu, Alpine, Kali)
 
 ### 言語
-* プロダクションコードを書いた経験がある言語
+* 製品開発
   * VB6/VBA/Excel VBA/VB.NET
   * Python
   * Java
   * TypeScript
   * ラダー
-* プライベートで書いている言語
+* 個人開発
   * Dart
-* 使用経験がある言語
+* 経験あり
   * R
   * C,C++
 
 ### フレームワーク
-* Front end
+* 製品開発
   * Vue.js
-* API保守・運用
   * Spring Framework
-* ネイティブアプリ
   * WPF
   * .NET
-* プライベートで使用しているFW
+* 経験あり
   * FLutter
 
 ### アプリケーション
@@ -63,6 +61,8 @@
   * Proxyサーバ構築（http/ smtp/ pop3/ SSH …etc)
   * ルータ構築
   * サーバ構築（FTP/ Tomcat/ Nginx　…etc）
+* クラウド
+  * Firebase
 
 ### Device
 * 設計・構築経験あり
@@ -75,6 +75,9 @@
   * Raspberry Pi（各種センサ、無線、クラウド、Python ）
 
 ### その他
+* 開発手法
+  * ウォーターフロー
+  * アジャイル（＋カンバン）
 * 基本的な操作は可能
   * Git（Git-hub,Gitea）
   * VBS、Shell
