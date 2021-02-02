@@ -34,8 +34,8 @@
   * Spring Framework
   * WPF
   * .NET
-* 経験あり
-  * FLutter
+* 個人開発
+  * Flutter
 
 ### アプリケーション
 * 構築・使用経験あり
@@ -56,12 +56,12 @@
 * HW 
   * ルータ（アライドテレシス 、YAMAHA）
 * UTM
-  * Fotiegate
+  * Fortigate
 * Linux
   * Proxyサーバ構築（http/ smtp/ pop3/ SSH …etc)
   * ルータ構築
   * サーバ構築（FTP/ Tomcat/ Nginx　…etc）
-* クラウド
+* 個人開発
   * Firebase
 
 ### Device
