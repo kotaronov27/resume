@@ -3,7 +3,7 @@
 |---|-----|
 |Name|矢來　功太郎|
 |GitHub|[kotaronov27 \(Yagi Kotaro\)](https://github.com/kotaronov27)|
-|Qiita|[Yagi Kotaro \- Qiita](https://qiita.com/kentaro_m)|
+|Qiita|[Yagi Kotaro \- Qiita](https://qiita.com/kotaronov27)|
 
 
 ## スキル・経験
