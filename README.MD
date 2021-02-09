@@ -3,7 +3,7 @@
 |---|-----|
 |Name|矢來　功太郎|
 |GitHub|[kotaronov27 \(Yagi Kotaro\)](https://github.com/kotaronov27)|
-|Qiita|[Yagi Kotaro \- Qiita](https://qiita.com/kotaronov27)|
+|Qiita|[@kotaronov27 \(Yagi Kotaro\)](https://qiita.com/kotaronov27)|
 
 
 ## スキル・経験
@@ -27,6 +27,7 @@
 * 経験あり
   * R
   * C,C++
+  * Javascript（GAS）
 
 ### フレームワーク
 * 製品開発
@@ -69,10 +70,10 @@
   * PLC(MELSEC/ FA-M3)
   * 顔認証デバイス
   * 自動ドア、電子錠
-  * ウェアラブルデバイス（HMT-1/ MOVERIO)
   * 磁気カードリーダライタ
   * Felica,Mifareリーダライタ
-  * Raspberry Pi（各種センサ、無線、クラウド、Python ）
+  * Raspberry Pi（各種センサ、無線、Python、[Ambient](https://ambidata.io/) ）
+  * ウェアラブルデバイス（HMT-1/ MOVERIO)
 
 ### その他
 * 開発手法
@@ -83,10 +84,11 @@
   * VBS、Shell
   * 仮装環境（VMWare,Docker+Docker-compose,KVM,Hyper-V,Android Emulateur）
 * プライベート
-  * スマホのカスタムROM入れ替え
-  * スマホのディスプレイ交換
-  * 自作PC
+  * スマホ（カスタムROM換装、ディスプレイ交換）
+  * 自作PC（10台↑　※金沢工業大学の電子計算機研究会向け）
   * メッシュWIFI-NW 構築
+  * SlackBot（GAS、Javascript）
+  * LineBot（Python）
 * 勉強・興味 (2021/02 現在)
   * ペネトレーションテスト（セキュリティテスト）
   * React.js, Go
