@@ -21,13 +21,12 @@
   * Python
   * Java
   * TypeScript
-  * ラダー
-* 個人開発
-  * Dart
+  * ラダー・ロジック（MELSEC）
 * 経験あり
   * R
   * C,C++
   * Javascript（GAS）
+  * Dart
 
 ### フレームワーク
 * 製品開発
@@ -35,7 +34,7 @@
   * Spring Framework
   * WPF
   * .NET
-* 個人開発
+* 経験あり
   * Flutter
 
 ### アプリケーション
@@ -44,7 +43,6 @@
   * SQLServer
   * Zabbix
   * Redmine
-  * Nginx
   * MATLAB
 * 設計・運用経験あり（DB設計経験あり）
   * Postgres
@@ -56,14 +54,11 @@
   * VPN（SSL、IPSEC）を用いたNW設計・構築・運用
 * HW 
   * ルータ（アライドテレシス 、YAMAHA）
-* UTM
-  * Fortigate
+  * UTM（Fortigate）
 * Linux
   * Proxyサーバ構築（http/ smtp/ pop3/ SSH …etc)
   * ルータ構築
   * サーバ構築（FTP/ Tomcat/ Nginx　…etc）
-* 個人開発
-  * Firebase
 
 ### Device
 * 設計・構築経験あり
@@ -74,6 +69,10 @@
   * Felica,Mifareリーダライタ
   * Raspberry Pi（各種センサ、無線、Python、[Ambient](https://ambidata.io/) ）
   * ウェアラブルデバイス（HMT-1/ MOVERIO)
+
+### クラウド ※使用経験あり
+* Saas（Office365, Slack, Trello, Google Coraboratory　…etc）
+* MBaas（Firebase）
 
 ### その他
 * 開発手法
@@ -91,7 +90,8 @@
   * LineBot（Python）
 * 勉強・興味 (2021/02 現在)
   * ペネトレーションテスト（セキュリティテスト）
-  * React.js, Go
+  * Dart(Flutter),Go
+  * DeepLearning(Kaggle)
 * 論文
   * 堀田幸博, 矢来功太郎, 山本知仁, 三宅美博, "指示-応答発話からなる対話における発話-身体リズム間の同調傾向",ヒューマンインタフェース学会研究報告集, No.12, pp.7-12 (2010)
   * 矢來功太郎, 堀田幸博, 山本知仁, 三宅美博, "協力ゲーム中の対話におけるゲームの展開と同調傾向の関係", ヒューマンインタフェース学会研究報告集, Vol.13, No.3, pp.61-66 (2011) 電子情報通信学会
