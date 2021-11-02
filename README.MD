@@ -9,7 +9,7 @@
 ## スキル・経験
 ### OS
 * 環境設計・構築が可能（経験有）
-  * Windows（Server、その他）
+  * Windows（Server, その他）
   * Linux（Debian, Cent OS）
 * 業務に使用可能
   * Mac
@@ -70,28 +70,28 @@
   * Raspberry Pi（各種センサ、無線、Python、[Ambient](https://ambidata.io/) ）
   * ウェアラブルデバイス（HMT-1/ MOVERIO)
 
-### クラウド ※使用経験あり
-* Saas（Office365, Slack, Trello, Google Coraboratory　…etc）
+### クラウド 
+* Iaas/Paas
+  * Azure
+* Saas（Office365, Slack, Trello, Google Coraboratory, Azure DevOps　…etc）
 * MBaas（Firebase）
 
 ### その他
 * 開発手法
   * ウォーターフロー
-  * アジャイル（＋カンバン）
+  * アジャイル（＋カンバン）、スクラム
 * 基本的な操作は可能
-  * Git（Git-hub,Gitea）
+  * Git（Git-hub, Gitea）
   * VBS、Shell
-  * 仮装環境（VMWare,Docker+Docker-compose,KVM,Hyper-V,Android Emulateur）
+  * 仮装環境（VMWare, Docker+Docker-compose, KVM, Hyper-V, Android Emulateur）
 * プライベート
   * スマホ（カスタムROM換装、ディスプレイ交換）
-  * 自作PC（10台↑　※金沢工業大学の電子計算機研究会向け）
+  * 自作PC（10台↑　※金沢工業大学電子計算機研究会向け）
   * メッシュWIFI-NW 構築
-  * SlackBot（GAS、Javascript）
+  * SlackBot（GAS, Javascript）
   * LineBot（Python）
-* 勉強・興味 (2021/02 現在)
-  * ペネトレーションテスト（セキュリティテスト）
-  * Dart(Flutter),Go
-  * DeepLearning(Kaggle)
+* 勉強・興味 (2021/11 現在)
+  * Atcoder
 * 論文
   * 堀田幸博, 矢来功太郎, 山本知仁, 三宅美博, "指示-応答発話からなる対話における発話-身体リズム間の同調傾向",ヒューマンインタフェース学会研究報告集, No.12, pp.7-12 (2010)
   * 矢來功太郎, 堀田幸博, 山本知仁, 三宅美博, "協力ゲーム中の対話におけるゲームの展開と同調傾向の関係", ヒューマンインタフェース学会研究報告集, Vol.13, No.3, pp.61-66 (2011) 電子情報通信学会
